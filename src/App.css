@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  padding: 20px;
+}
+
+.example {
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+}

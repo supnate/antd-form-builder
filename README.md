@@ -1,2 +1,2 @@
-# antd-form-helper
-Helper functions for building ant.design forms.
+# antd-form-builder
+Helper component for building ant.design forms.
